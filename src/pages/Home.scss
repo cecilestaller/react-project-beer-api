@@ -1,10 +1,14 @@
 .home_wrap {
-    padding: 5%;
+    padding: 6%;
 
     .homeArticle_wrap{
         margin-bottom: 4vh;
+        
 
         a{
+            img {
+                max-width: 100%;
+            }
             h2{
                 background-color: #FFCA41;
                 color: white;

@@ -1,7 +1,8 @@
 section{
+    margin: 0 auto;
     article{
 
-        .preview_wrap{
+        .preview_wrap {
             border-bottom: 2px solid rgba(51, 51, 51, 0.50);
             display: flex;
             padding: 5vh 3%;
@@ -11,8 +12,8 @@ section{
                 height: 191px;
             }
             .info_wrap {
-                max-width: 220px;
-                align-self: center;
+                width: 210px;
+                justify-self: flex-end;
                 display: flex;
                 flex-direction: column;
                 justify-content: space-around;
