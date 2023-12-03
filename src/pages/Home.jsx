@@ -11,7 +11,8 @@ const Home = () => {
                     <img src={allbeers} alt="viele flaschen bier" />
                     <h2>All Beers</h2>
                 </Link>
-                <p>Klick the picture get an overview of all our family brewed beers. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae asperiores quaerat ut, non dolorem eos.</p>
+                <p>Klick the picture to get an overview of all our family brewed beers. 
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae asperiores quaerat ut, non dolorem eos.</p>
             </article>
             <article className="homeArticle_wrap">
                 <Link to='/randombeer'>
