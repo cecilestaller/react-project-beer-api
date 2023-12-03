@@ -1,0 +1,20 @@
+section{
+    nav{
+        background-color: #FFCA41;
+        width: 100%;
+        max-width: 414px;
+        text-align: center;
+        padding-block: 8px;
+        position: fixed;
+        bottom: 0;
+        a {
+            svg{
+                background-color: white;
+                border-radius: 50%;
+                height: 60px;
+                width: 60px;
+                padding: 8px;
+            }
+        }
+    }
+}

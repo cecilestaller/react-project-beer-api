@@ -1,0 +1,41 @@
+section {
+    .detail_wrap{
+        
+        img {
+            height: 409px;
+            margin-block: 2vh;
+        }
+        h1 {
+            font-size: 3.25rem;
+            color: #333;
+            font-weight: 500;
+            margin-inline: 3%;
+        }
+        h2 {
+            color: #FFCA41;
+            font-size: 1.125rem;
+            font-weight: 900;
+            margin-bottom: 2vh;
+            margin-inline: 3%;
+        }
+        div {
+            display: flex;
+            justify-content: space-between;
+            color: rgba(51, 51, 51, 0.50);
+            font-size: 0.8125rem;
+            font-weight: 500;
+            margin-inline: 3%;
+        }
+        p {
+            color: #333;
+            font-size: 0.9375rem;
+            font-weight: 500;
+            margin-top: 1vh;
+            margin-bottom: 4vh;
+            margin-inline: 3%;
+        }
+        .pfeil_wrap {
+            margin-bottom: 15vh;
+        }
+    }
+}

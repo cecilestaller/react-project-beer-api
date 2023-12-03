@@ -1,0 +1,23 @@
+.home_wrap {
+    padding: 5%;
+
+    .homeArticle_wrap{
+        margin-bottom: 4vh;
+
+        a{
+            h2{
+                background-color: #FFCA41;
+                color: white;
+                padding: 4px 8px;
+                margin-bottom: 1vh;
+                font-size: 1.875rem;
+                font-weight: 700;
+            }
+        }
+        p {
+            color: #333;
+            font-size: 1.125rem;
+            font-weight: 500;
+        }
+    }
+}
