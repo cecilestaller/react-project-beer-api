@@ -12,9 +12,9 @@ https://react-beer-api-project-cs.netlify.app
 
 ## Screenshots 📸
 
-![mobile version home](./src/img/sc_desktop.png)
-![mobile version overview](./src/img/sc_phone.png)
-![mobile version detail](./src/img/sc_phone.png)
+![mobile version home](./public/img/home.png)
+![mobile version overview](./public/img/overview.png)
+![mobile version detail](./public/img/details.png)
 
 ## Copatible Screensizes
 
@@ -36,7 +36,8 @@ https://react-beer-api-project-cs.netlify.app
 
 - [@cecilestaller](https://github.com/cecilestaller)
 
-## API-Link
+## API-Links
 
 https://ih-beers-api2.herokuapp.com/beers
+
 https://ih-beers-api2.herokuapp.com/beers/random
