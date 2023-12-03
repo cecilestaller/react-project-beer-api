@@ -1,8 +1,42 @@
-# React + Vite
+# Beer-API / React Project 🍻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This project was created as part of a Full-Stack Webdeveloper bootcamp from supercode.
 
-Currently, two official plugins are available:
+- The learning objective of the project:
+- internalize the handling of useState- and useEffect-hooks in react
+- the dynamic creation of detail pages using an API and the react npm package: react-router-dom
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo Link
+
+https://react-beer-api-project-cs.netlify.app
+
+## Screenshots 📸
+
+![mobile version home](./src/img/sc_desktop.png)
+![mobile version overview](./src/img/sc_phone.png)
+![mobile version detail](./src/img/sc_phone.png)
+
+## Copatible Screensizes
+
+- optimized for mobile use but also usable on larger screens
+
+## Tech Stack 💻
+
+- react
+- HTML
+- SCSS
+- vite
+- GitHub
+- netlify
+- JavaScript
+- GIT
+- RESTful API (Beers API)
+
+## Author 🤵‍♀️
+
+- [@cecilestaller](https://github.com/cecilestaller)
+
+## API-Link
+
+https://ih-beers-api2.herokuapp.com/beers
+https://ih-beers-api2.herokuapp.com/beers/random
