@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import './Home.scss'
-import allbeers from "./../../public/img/img_allbeers.jpg"
-import randombeer from "./../../public/img/img_randombeer.png"
+import allbeers from "./../img/img_allbeers.jpg"
+import randombeer from "./../img/img_randombeer.png"
 
 const Home = () => {
     return (  

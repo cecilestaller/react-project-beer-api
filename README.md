@@ -22,9 +22,9 @@ https://react-beer-api-project-cs.netlify.app
 
 ## Screenshots 📸
 
-![mobile version home](./public/img/home.png)
-![mobile version overview](./public/img/overview.png)
-![mobile version detail](./public/img/details.png)
+![mobile version home](./src/img/home.png)
+![mobile version overview](./src/img/overview.png)
+![mobile version detail](./src/img/details.png)
 
 ## Copatible Screensizes
 
